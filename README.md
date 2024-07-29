@@ -1,1 +1,1 @@
-# Rock-Vs-Mine
+# Rock-Vs-Mine Prediction
